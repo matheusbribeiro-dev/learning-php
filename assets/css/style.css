@@ -1,0 +1,33 @@
+* {
+  font-family: "Oswald", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  grid-template-rows: 120px 1fr 60px;
+  grid-template-columns: 1fr;
+  grid-template-areas: /*Require from 'grid-area' properties */
+    "header"
+    "main"
+    "footer";
+}
+
+.header {
+  grid-area: header;
+  background-color: #1867c0;
+}
+
+main {
+  grid-area: main;
+  height: calc(100vh - 180px);
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: #fff;
+}
