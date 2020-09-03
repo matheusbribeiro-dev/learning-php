@@ -40,7 +40,7 @@ body {
   font-size: 1.6rem;
 }
 
-main {
+.main {
   grid-area: main;
   height: calc(100vh - 180px);
   background-color: #f0f0f0;
@@ -50,4 +50,10 @@ main {
 .footer {
   grid-area: footer;
   background-color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1.2rem;
+  padding-right: 20px;
+  color: #444;
 }
