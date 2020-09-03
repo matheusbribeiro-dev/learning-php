@@ -66,3 +66,45 @@ body {
   padding-right: 20px;
   color: #444;
 }
+
+/*Modules*/
+.modules {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.module {
+  flex-basis: 32%;
+}
+
+.module > h3 {
+  margin: 0;
+  color: #fff;
+  font-weight: 300;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  background-color: #1867c0;
+}
+
+.module > ul {
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+}
+
+.module > ul li {
+  padding: 7px;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.module > ul li:hover {
+  background-color: #eee;
+}
+
+.module > ul li a {
+  display: flex;
+  text-decoration: none;
+  color: #222;
+}
