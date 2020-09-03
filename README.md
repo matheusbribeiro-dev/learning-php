@@ -5,8 +5,13 @@
     Cod3r
 </p>
 
+> Criar uma branch a cada dia de aula para atualizações no código:
+> classToday.
+>
+> Depois colocar os updates na MASTER e subir para o Git Hub
+
 #### Requirements:
 
 - PHP 7.x
 
-> Updates every day
+> Atualizações todos os dias
