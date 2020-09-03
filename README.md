@@ -14,4 +14,8 @@
 
 - PHP 7.x
 
+#### Seções:
+
+- [ ] Revisão HTML e CSS;
+
 > Atualizações todos os dias
