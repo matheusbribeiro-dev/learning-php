@@ -1,9 +1,4 @@
-<h1 style="text-align: center;">Curso de PHP</h1>
-<p style="text-align:center;
-    font-weight: bold;
-    font-size: 24px;">
-    Cod3r
-</p>
+<h1>Curso de PHP - Cod3r</h1>
 
 > Criar uma branch a cada dia de aula para atualizações no código:
 > classToday.
