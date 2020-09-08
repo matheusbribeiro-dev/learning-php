@@ -29,99 +29,9 @@
             <h3>Módulo 01</h3>
             <ul>
               <li><a href="/exercise.php">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
             </ul>
           </div>
           <!--//Módulo 01-->
-
-          <!--Módulo 02-->
-          <div class="module red">
-            <h3>Módulo 02</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 02-->
-
-          <!--Módulo 03-->
-          <div class="module blue">
-            <h3>Módulo 03</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 03-->
-
-          <!--Módulo 04-->
-          <div class="module purple">
-            <h3>Módulo 04</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 04-->
-
-          <!--Módulo 05-->
-          <div class="module orange">
-            <h3>Módulo 05</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 05-->
-
-          <!--Módulo 06-->
-          <div class="module dark-green">
-            <h3>Módulo 06</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 06-->
-
-          <!--Módulo 07-->
-          <div class="module dark-red">
-            <h3>Módulo 07</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 07-->
-
-          <!--Módulo 08-->
-          <div class="module dark-blue">
-            <h3>Módulo 08</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 08-->
-
-          <!--Módulo 09-->
-          <div class="module dark-purple">
-            <h3>Módulo 09</h3>
-            <ul>
-              <li><a href="">Exercício A</a></li>
-              <li><a href="">Exercício B</a></li>
-              <li><a href="">Exercício C</a></li>
-            </ul>
-          </div>
-          <!--//Módulo 09-->
         </nav>
         <!--//nav modules-->
       </div>

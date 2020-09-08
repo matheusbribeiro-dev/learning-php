@@ -11,6 +11,7 @@
 
 #### Seções:
 
-- [ ] Revisão HTML e CSS;
+- [x] Revisão HTML e CSS;
+- [ ] Integrando PHP com HTML & CSS;
 
 > Atualizações todos os dias
