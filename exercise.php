@@ -13,8 +13,9 @@
 		rel="stylesheet"
 		/>
 		<link rel="stylesheet" href="assets/css/style.css" />
+		<link rel="stylesheet" href="assets/css/exercise.css" />
 	</head>
-	<body>
+	<body class="exercise">
 		<header class="header">
 			<h1>Curso PHP</h1>
 			<h2>Visualização do exercício</h2>
