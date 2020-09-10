@@ -22,14 +22,18 @@
 		</header>
 		<!--nav-->
 		<nav class="navigation">
-			<a href="#" class="green">Sem formatação</a>
+			<a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="green">
+				Sem formatação
+			</a>
 			<a href="/index.php" class="red">Voltar</a>
 		</nav>	
 		<!--//nav-->
 		<main class="main">
 			<!--div content-->
 			<div class="content">
-
+				<?php
+					include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
+				?>
 			</div>
 			<!--//div content-->
 		</main>

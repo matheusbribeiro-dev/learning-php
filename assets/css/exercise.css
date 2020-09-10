@@ -36,3 +36,15 @@ body.exercise {
 .navigation > a.red {
   background-color: #f44336;
 }
+
+.content {
+  font-size: 2rem;
+}
+
+.content .title {
+  font-size: 2.5rem;
+  font-weight: 300;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #999;
+  margin-bottom: 20px;
+}
