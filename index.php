@@ -39,6 +39,18 @@
                   Integração HTML
                 </a>
               </li>
+              
+              <li>
+                <a href="exercise.php?dir=1-basic&file=css">
+                  Integração CSS
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=1-basic&file=comment">
+                  Comentário no PHP
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Módulo 01-->
