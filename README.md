@@ -13,5 +13,6 @@
 
 - [x] Revisão HTML e CSS;
 - [x] Integrando PHP com HTML & CSS;
+- [ ] Tipos básicos PHP;
 
 > Atualizações todos os dias
