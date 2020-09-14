@@ -29,7 +29,15 @@
             <h3>Módulo 01</h3>
             <ul>
               <li>
-                <a href="exercise.php?dir=1-basic&file=hello">Olá PHP</a>
+                <a href="exercise.php?dir=1-basic&file=hello">
+                  Olá PHP
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=1-basic&file=html">
+                  Integração HTML
+                </a>
               </li>
             </ul>
           </div>
