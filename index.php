@@ -51,6 +51,12 @@
                   Comentário no PHP
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=1-basic&file=challenge">
+                  Desafio
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Módulo 01-->
