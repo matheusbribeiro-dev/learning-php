@@ -24,9 +24,9 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
-          <!--Módulo 01-->
+          <!--Module 01-->
           <div class="module green">
-            <h3>Módulo 01</h3>
+            <h3>Básico</h3>
             <ul>
               <li>
                 <a href="exercise.php?dir=1-basic&file=hello">
@@ -59,7 +59,20 @@
               </li>
             </ul>
           </div>
-          <!--//Módulo 01-->
+          <!--//Module 01-->
+
+          <!--Module 02-->
+          <div class="module red">
+            <h3>Tipos</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=2-types&file=int">
+                  Tipo inteiro
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 02-->
         </nav>
         <!--//nav modules-->
       </div>
