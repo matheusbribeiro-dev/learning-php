@@ -100,6 +100,12 @@
                   Desafio string
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=2-types&file=boolean">
+                  Tipo booleano
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 02-->
