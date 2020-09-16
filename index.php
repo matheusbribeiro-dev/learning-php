@@ -94,6 +94,12 @@
                   Tipo string
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=2-types&file=challenge_string">
+                  Desafio string
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 02-->
