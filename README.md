@@ -1,5 +1,10 @@
 <h1>Curso de PHP - Cod3r</h1>
 
+> Caso queira clonar este repositório e testar na sua máquina
+> 'rode' um server na pasta do repositório para acessar no
+> browser com um front-end bonito.
+> Recomendo Apache ou com php instalado basta só dar um `$ php -S localhost:(porta qualquer)`
+
 > Criar uma branch a cada dia de aula para atualizações no código:
 > classToday.
 >
