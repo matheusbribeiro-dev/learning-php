@@ -13,7 +13,7 @@
 
 - [x] Revisão HTML e CSS;
 - [x] Integrando PHP com HTML & CSS;
-- [ ] Tipos básicos PHP;
+- [x] Tipos básicos PHP;
 - [ ] Variáveis;
 - [ ] Estruturas de controle #01;
 - [ ] Arrays;
