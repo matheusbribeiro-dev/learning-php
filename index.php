@@ -106,6 +106,12 @@
                   Tipo booleano
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=2-types&file=conversion">
+                  Conversões
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 02-->

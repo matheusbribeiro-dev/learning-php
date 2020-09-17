@@ -2,7 +2,8 @@
 
 <?php
     /*
-        Números de ponto flutuante (também conhecidos como "floats", "doubles" ou "números reais")
+        Números de ponto flutuante (também conhecidos como "floats", 
+        "doubles" ou "números reais")
 
         Consulte a doc para saber um pouco mais: 
             https://www.php.net/manual/pt_BR/language.types.float.php
