@@ -14,5 +14,18 @@
 - [x] Revisão HTML e CSS;
 - [x] Integrando PHP com HTML & CSS;
 - [ ] Tipos básicos PHP;
+- [ ] Variáveis;
+- [ ] Estruturas de controle #01;
+- [ ] Arrays;
+- [ ] Estruturas de controle #02;
+- [ ] Funções;
+- [ ] Orientação a Objetos;
+- [ ] Includes;
+- [ ] Namespace;
+- [ ] Tratamento de erro;
+- [ ] Sessão & Cookie;
+- [ ] API;
+- [ ] Formulário;
+- [ ] Banco de dados;
 
 > Atualizações todos os dias
