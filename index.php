@@ -115,6 +115,19 @@
             </ul>
           </div>
           <!--//Module 02-->
+
+          <!--Module 03-->
+          <div class="module blue">
+            <h3>Variáveis</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=3-variables&file=basic">
+                  Básico
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 03-->
         </nav>
         <!--//nav modules-->
       </div>
