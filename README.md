@@ -3,18 +3,17 @@
 > Caso queira clonar este repositório e testar na sua máquina
 > 'rode' um server na pasta do repositório para acessar no
 > browser com um front-end bonito.
-> Recomendo Apache ou com php instalado basta só dar um `$ php -S localhost:(porta qualquer)`
-
-> Criar uma branch a cada dia de aula para atualizações no código:
-> classToday.
->
-> Depois colocar os updates na MASTER e subir para o Git Hub
+> Recomendo Apache ou com php instalado basta só dar um:
+> `$ php -S localhost:(porta qualquer)` em seu terminal(esteja atento aos detalhes supracitado);
 
 #### Requirements:
 
-- PHP 7.x
+- Versão do PHP que estou usando: PHP Version 7.4.9
 
 #### Seções:
+
+> Função que uso em diversos exemplos: `var_dump();`. Para entendê-la melhor
+> antes de estudar os códigos acesse: https://www.php.net/manual/pt_BR/function.var-dump.
 
 - [x] Revisão HTML e CSS;
 - [x] Integrando PHP com HTML & CSS;
