@@ -61,9 +61,7 @@
 
     //Variáveis pré definidas(https://www.php.net/manual/pt_BR/reserved.variables.php), exemplo:
     echo '<br>';
-    echo '<pre>';//Tag 'pre' dá uma certa estrutura a informação
-        var_dump($_SERVER["HTTP_HOST"]);//É um array, por isso exibi desta maneira
-    echo '<pre>';
+    var_dump($_SERVER["HTTP_HOST"]);//É um array, por isso exibi desta maneira
 
     
 
