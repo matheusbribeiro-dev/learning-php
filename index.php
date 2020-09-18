@@ -125,6 +125,12 @@
                   Básico
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=challenge_equation">
+                  Desafio equação
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 03-->
