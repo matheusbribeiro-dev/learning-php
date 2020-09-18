@@ -48,6 +48,23 @@
     
     $variable = "Agora sou uma string";
     echo '<br>' . $variable;
+
+    //Nomes de variáveis - é importante usar um padrão, vou utilizar o camelCase 
+    $var = 'Válida';
+    $var2 = 'Válida';
+    $VAR3 = 'Válida';
+    $_var_4 = 'Válida';
+    //$vâr5 = 'Válida'; Mas evite!!!
+    // $6var = 'invalida';
+    // $%var7 = 'invalida';
+    // $var8% = 'invalida';
+
+    //Variáveis pré definidas(https://www.php.net/manual/pt_BR/reserved.variables.php), exemplo:
+    echo '<br>';
+    echo '<pre>';//Tag 'pre' dá uma certa estrutura a informação
+        var_dump($_SERVER["HTTP_HOST"]);//É um array, por isso exibi desta maneira
+    echo '<pre>';
+
     
 
     
