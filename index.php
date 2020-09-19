@@ -137,6 +137,12 @@
                   Atribuições
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=interpolation">
+                  Interpolação
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 03-->
