@@ -131,6 +131,12 @@
                   Desafio equação
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=assignments">
+                  Atribuições
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 03-->
