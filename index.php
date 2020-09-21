@@ -149,6 +149,12 @@
                   Variáveis variáveis
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=challenge_variable">
+                  Desafio variáveis
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 03-->
