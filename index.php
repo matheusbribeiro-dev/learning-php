@@ -143,6 +143,12 @@
                   Interpolação
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=variables">
+                  Variáveis variáveis
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 03-->
