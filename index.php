@@ -155,6 +155,12 @@
                   Desafio variáveis
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=reference_value">
+                  Atribuição por referência
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 03-->
