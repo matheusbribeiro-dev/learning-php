@@ -45,6 +45,12 @@
                   Desafio PI
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=4-control&file=logical_operators">
+                  Operadores lógicos
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 04-->
