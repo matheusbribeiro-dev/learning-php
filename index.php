@@ -24,46 +24,77 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
-          <!--Module 01-->
-          <div class="module green">
-            <h3>Básico</h3>
+          <!--Module 04-->
+          <div class="module purple">
+            <h3>4. Estruturas de controle</h3>
             <ul>
               <li>
-                <a href="exercise.php?dir=1-basic&file=hello">
-                  Olá PHP
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=1-basic&file=html">
-                  Integração HTML
-                </a>
-              </li>
-              
-              <li>
-                <a href="exercise.php?dir=1-basic&file=css">
-                  Integração CSS
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=1-basic&file=comment">
-                  Comentário no PHP
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=1-basic&file=challenge">
-                  Desafio
+                <a href="exercise.php?dir=4-control&file=if_else">
+                  If Else
                 </a>
               </li>
             </ul>
           </div>
-          <!--//Module 01-->
+          <!--//Module 04-->
+
+          <!--Module 03-->
+          <div class="module blue">
+            <h3>3. Variáveis</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=3-variables&file=basic">
+                  Básico
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=challenge_equation">
+                  Desafio equação
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=assignments">
+                  Atribuições
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=interpolation">
+                  Interpolação
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=variables">
+                  Variáveis variáveis
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=challenge_variable">
+                  Desafio variáveis
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=reference_value">
+                  Atribuição por referência
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=3-variables&file=constant">
+                  Constantes
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 03-->
 
           <!--Module 02-->
           <div class="module red">
-            <h3>Tipos</h3>
+            <h3>2. Tipos</h3>
             <ul>
               <li>
                 <a href="exercise.php?dir=2-types&file=int">
@@ -116,60 +147,42 @@
           </div>
           <!--//Module 02-->
 
-          <!--Module 03-->
-          <div class="module blue">
-            <h3>Variáveis</h3>
+          <!--Module 01-->
+          <div class="module green">
+            <h3>1. Básico</h3>
             <ul>
               <li>
-                <a href="exercise.php?dir=3-variables&file=basic">
-                  Básico
+                <a href="exercise.php?dir=1-basic&file=hello">
+                  Olá PHP
                 </a>
               </li>
 
               <li>
-                <a href="exercise.php?dir=3-variables&file=challenge_equation">
-                  Desafio equação
+                <a href="exercise.php?dir=1-basic&file=html">
+                  Integração HTML
+                </a>
+              </li>
+              
+              <li>
+                <a href="exercise.php?dir=1-basic&file=css">
+                  Integração CSS
                 </a>
               </li>
 
               <li>
-                <a href="exercise.php?dir=3-variables&file=assignments">
-                  Atribuições
+                <a href="exercise.php?dir=1-basic&file=comment">
+                  Comentário no PHP
                 </a>
               </li>
 
               <li>
-                <a href="exercise.php?dir=3-variables&file=interpolation">
-                  Interpolação
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=3-variables&file=variables">
-                  Variáveis variáveis
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=3-variables&file=challenge_variable">
-                  Desafio variáveis
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=3-variables&file=reference_value">
-                  Atribuição por referência
-                </a>
-              </li>
-
-              <li>
-                <a href="exercise.php?dir=3-variables&file=constant">
-                  Constantes
+                <a href="exercise.php?dir=1-basic&file=challenge">
+                  Desafio
                 </a>
               </li>
             </ul>
           </div>
-          <!--//Module 03-->
+          <!--//Module 01-->
         </nav>
         <!--//nav modules-->
       </div>
