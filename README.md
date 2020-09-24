@@ -8,7 +8,10 @@
 
 #### Requirements:
 
-- Versão do PHP que estou usando: PHP Version 7.4.9
+- Versão do PHP que estou usando: PHP Version 7.4.9.
+- HTML.
+- CSS.
+- Conceitos básicos sobre o funcionamento da web.
 
 #### Seções:
 
