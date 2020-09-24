@@ -173,3 +173,12 @@ body {
 .module.dark-purple > h3 {
   background-color: #4a148c;
 }
+
+p.division {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+hr {
+  margin-top: 0;
+}
