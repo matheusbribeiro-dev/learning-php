@@ -15,7 +15,7 @@
     var_dump(1 != '1');
     var_dump(1 !== '1');//true
 
-    echo "<p>Relacionais no if/Else</p><hr>";
+    echo "<p class='division'>Relacionais no if/Else</p><hr>";
     $idade = 20;
 
     if($idade < 18) {
@@ -26,18 +26,7 @@
         echo "Terceira idade";
     }
 
-    echo '<p>SpaceShip</p><hr>';
+    echo "<p class='division'>SpaceShip</p><hr>";
     var_dump(500 <=> 3);//-> 1
     var_dump(50 <=> 50);//-> 0
     var_dump(5 <=> 50);//-> -1
-?>
-
-<style>
-    p {
-        margin-bottom: 0;
-    }
-
-    hr {
-        margin-top: 0;
-    }
-</style>
