@@ -37,7 +37,7 @@
     var_dump(false xor true);//true
     var_dump(false xor false);//false
 
-    echo "<p class='division'>Tabela verdade 'XOR' (OU exclusivo)</p><hr>";
+    echo "<p class='division'>Exemplo</p><hr>";
     $idade = 62;
     $sexo = 'F';
 
