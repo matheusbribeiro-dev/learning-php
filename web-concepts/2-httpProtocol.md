@@ -46,19 +46,19 @@ Mas cada um desses textos aí significa algo de acordo com as regras do protocol
 
 1. Get:
 
-- Essa é a requisição mais comum de todas. Através dessa requisição nós pedimos a representação de um recurso: que pode ser um arquivo html, xml, json, etc.
-  Um exemplo de requisição GET seria:
+   - Essa é a requisição mais comum de todas. Através dessa requisição nós pedimos a representação de um recurso: que pode ser um arquivo html, xml, json, etc.
+     Um exemplo de requisição GET seria:
 
-          ```
-          GET /search?q=web+moderno&hl=pt-BR HTTP/1.1
-          User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
-          Host: http://google.com
-          Connection: Keep-Alive
-          ```
+   ```
+     GET /search?q=web+moderno&hl=pt-BR HTTP/1.1
+     User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
+     Host: http://google.com
+     Connection: Keep-Alive
+   ```
 
 2. Post:
 
-- O método POST é utilizado quando queremos criar um recurso. Quando usamos POST, os dados vão no corpo da requisição e não na URI.
+   - O método POST é utilizado quando queremos criar um recurso. Quando usamos POST, os dados vão no corpo da requisição e não na URI.
 
 ## Grupos de status HTTP
 
