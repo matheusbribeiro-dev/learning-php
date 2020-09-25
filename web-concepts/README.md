@@ -1,7 +1,7 @@
 ## Conceitos sobre web
 
 - [x] Introdução à web;
-- [ ] Protocolo HTTP;
+- [x] Protocolo HTTP;
 - [ ] Servidor web;
 
 > Em breve mais atualizações.
