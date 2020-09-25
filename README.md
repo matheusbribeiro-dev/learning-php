@@ -1,5 +1,7 @@
 <h1>Curso de PHP - Cod3r</h1>
 
+> Apenas diretórios, variáveis e nomes de arquivos em inglês,
+> comentários e explicações em PT-BR.
 > Caso queira clonar este repositório e testar na sua máquina
 > 'rode' um server na pasta do repositório para acessar no
 > browser com um front-end bonito.
