@@ -62,11 +62,11 @@ Mas cada um desses textos aí significa algo de acordo com as regras do protocol
 
 ## Grupos de status HTTP
 
-- 100 - Informação
-- 200 - Sucesso
-- 300 - Redirecionamento
-- 400 - Erro no cliente
-- 500 - Erro no servidor
+- 1xx - Informação
+- 2xx - Sucesso
+- 3xx - Redirecionamento
+- 4xx - Erro no cliente
+- 5xx - Erro no servidor
 
 <hr>
 
