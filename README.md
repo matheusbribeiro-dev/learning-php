@@ -11,7 +11,7 @@
 - PHP instalado (estou usando Version 7.4.9).
 - HTML.
 - CSS.
-- Conceitos básicos sobre a web(O capítulo web-concepts neste repositório tem o necessário)
+- Conceitos básicos sobre a web( [Clique aqui](https://github.com/matheusbribeiro-dev/learning-php/tree/master/web-concepts) ).
 
 #### Seções:
 
