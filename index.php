@@ -51,6 +51,12 @@
                   Operadores lógicos
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=4-control&file=challenge_logical_operators">
+                  Desafio Op. lógicos
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 04-->
