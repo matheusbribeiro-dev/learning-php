@@ -57,6 +57,12 @@
                   Desafio Op. lógicos
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=4-control&file=ternary_operator">
+                  Op. ternário
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 04-->

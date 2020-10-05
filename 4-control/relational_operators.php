@@ -27,6 +27,7 @@
     }
 
     echo "<p class='division'>SpaceShip</p><hr>";
+    /* https://www.php.net/manual/pt_BR/migration70.new-features.php*/
     var_dump(500 <=> 3);//-> 1
     var_dump(50 <=> 50);//-> 0
     var_dump(5 <=> 50);//-> -1
