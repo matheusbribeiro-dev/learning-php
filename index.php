@@ -24,6 +24,19 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
+          <!--Module 05-->
+          <div class="module orange">
+            <h3>5. Array</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=5-array&file=basic">
+                  Básico
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 05-->
+
           <!--Module 04-->
           <div class="module purple">
             <h3>4. Estruturas de controle</h3>

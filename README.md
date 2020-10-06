@@ -25,7 +25,7 @@
 - [x] Tipos básicos PHP;
 - [x] Variáveis;
 - [x] Estruturas de controle #01;
-- [ ] Arrays;
+- [ ] Arrays; > in production
 - [ ] Estruturas de controle #02;
 - [ ] Funções;
 - [ ] Orientação a Objetos;
