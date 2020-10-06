@@ -24,7 +24,7 @@
 - [x] Integrando PHP com HTML & CSS;
 - [x] Tipos básicos PHP;
 - [x] Variáveis;
-- [ ] Estruturas de controle #01;
+- [x] Estruturas de controle #01;
 - [ ] Arrays;
 - [ ] Estruturas de controle #02;
 - [ ] Funções;
