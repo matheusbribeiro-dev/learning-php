@@ -69,6 +69,12 @@
                   Switch
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=4-control&file=challenge_switch">
+                  Desafio Switch
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 04-->
