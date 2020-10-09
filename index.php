@@ -33,6 +33,12 @@
                   Básico
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=map">
+                  Mapa
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
