@@ -39,6 +39,12 @@
                   Mapa
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=challenge_index">
+                  Desafio index
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
