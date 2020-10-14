@@ -51,6 +51,12 @@
                   Desafio meses
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=operations">
+                  Operações com array
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
