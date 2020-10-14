@@ -69,6 +69,12 @@
                   Multidimensionais
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=const">
+                  Constantes
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
