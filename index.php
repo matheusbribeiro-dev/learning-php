@@ -45,6 +45,12 @@
                   Desafio index
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=challenge_months">
+                  Desafio meses
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
