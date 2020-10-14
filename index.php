@@ -75,6 +75,12 @@
                   Constantes
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=get">
+                  $_GET
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
