@@ -63,6 +63,12 @@
                   Desafio sorteio
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=multi">
+                  Multidimensionais
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
