@@ -33,6 +33,24 @@
                   For
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=6-repetitions&file=challenge_for">
+                  Desafio for
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=6-repetitions&file=foreach">
+                  Foreach
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=6-repetitions&file=challenge_print">
+                  Desafio impressão
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 06-->
