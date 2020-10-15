@@ -87,6 +87,12 @@
                   $_POST
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=5-array&file=comparison">
+                  Comparação
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 05-->
