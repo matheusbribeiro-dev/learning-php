@@ -24,6 +24,19 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
+          <!--Module 06-->
+          <div class="module dark-green">
+            <h3>6. Repetição</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=6-repetitions&file=for">
+                  For
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 06-->
+
           <!--Module 05-->
           <div class="module orange">
             <h3>5. Array</h3>
