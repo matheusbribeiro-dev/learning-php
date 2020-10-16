@@ -24,6 +24,19 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
+          <!--Module 07-->
+          <div class="module dark-red">
+            <h3>7. Funções</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=7-functions&file=scope">
+                  Função e escopo
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 07-->
+
           <!--Module 06-->
           <div class="module dark-green">
             <h3>6. Repetição</h3>
