@@ -33,6 +33,18 @@
                   Função e escopo
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=7-functions&file=args_return">
+                  Argumentos e retorno
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=7-functions&file=challenge_palindrome">
+                  Desafio Palíndromo
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 07-->
