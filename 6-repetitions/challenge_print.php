@@ -17,7 +17,7 @@
 
     foreach($array as $key => $value) {
         if($key % 2 !== 0) {
-            continue;
+            continue;/*pula a execução quando a mesma o encontra*/
         }
         echo "$value <br>";
     }

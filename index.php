@@ -51,6 +51,24 @@
                   Desafio impressão
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=6-repetitions&file=challenge_table">
+                  Desafio tabela
+                </a>
+              </li>
+
+              <li>
+                <a href="exercise.php?dir=6-repetitions&file=challenge_table2">
+                  Desafio tabela 2
+                </a>
+              </li>
+
+              <li>
+                <a href="#">
+                  Em breve este módulo estará completo
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 06-->
