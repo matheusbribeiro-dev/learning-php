@@ -45,6 +45,12 @@
                   Desafio Palíndromo
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=7-functions&file=param_variables">
+                  Parâmetros variáveis
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 07-->
