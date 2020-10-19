@@ -26,9 +26,9 @@
 - [x] Variáveis;
 - [x] Estruturas de controle #01;
 - [x] Arrays;
-- [ ] Estruturas de controle #02;> in production
-- [ ] Funções;
-- [ ] Orientação a Objetos;
+- [x] Estruturas de controle #02;
+- [x] Funções;
+- [ ] Orientação a Objetos;> in production
 - [ ] Includes;
 - [ ] Namespace;
 - [ ] Tratamento de erro;
