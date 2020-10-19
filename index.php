@@ -93,6 +93,12 @@
                   Retornando função
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=7-functions&file=map_filter">
+                  Map & Filter
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 07-->
