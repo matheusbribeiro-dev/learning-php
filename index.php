@@ -75,6 +75,12 @@
                   Closure & Callable
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=7-functions&file=recursion">
+                  Recursividade
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 07-->

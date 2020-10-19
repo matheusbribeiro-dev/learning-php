@@ -1,7 +1,7 @@
 <div class="title">Closure e Callable</div>
 
 <?php
-    /*Ao definir uma função anônima internamente o php insere está função numa classe*/
+    /*Ao definir uma função anônima, internamente o php insere esta função numa classe*/
     $som1 = function ($a, $b) {
         return $a + $b;
     };
