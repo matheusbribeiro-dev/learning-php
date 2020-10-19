@@ -81,6 +81,12 @@
                   Recursividade
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=7-functions&file=challenge_recursion">
+                  Desafio recursividade
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 07-->
