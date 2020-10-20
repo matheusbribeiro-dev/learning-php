@@ -24,6 +24,19 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
+          <!--Module 08-->
+          <div class="module dark-blue">
+            <h3>8. Paradigma OO</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=8-class_objects&file=class">
+                  Primeira classe
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 08-->
+
           <!--Module 07-->
           <div class="module dark-red">
             <h3>7. Funções</h3>
