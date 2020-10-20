@@ -10,7 +10,7 @@
         public $age = 18;
 
         public function niceToMeet() {
-            echo "Nome: {$this->name} Idade: {$this->age}<br>";/*O 'this' serve para
+            return "Nome: {$this->name} Idade: {$this->age}";/*O 'this' serve para
             conseguirmos acessar a variável definida no construtor da própria classe*/
         }
     }
@@ -20,11 +20,10 @@
     $c1->name = 'Matheus';
     $c1->age = 20;
 
-    $c1->niceToMeet();
-
     /*Mais instâncias */
     $c2 = new Client;
     $c2->name = 'Gabriel';
     $c2->age = 32;
 
-    $c2->niceToMeet();
+    echo $c1->niceToMeet(), '<br>';
+    echo $c2->niceToMeet(), '<br>';
