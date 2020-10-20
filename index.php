@@ -33,6 +33,12 @@
                   Primeira classe
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=8-class_objects&file=challenge_date">
+                  Desafio data
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 08-->
