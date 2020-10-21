@@ -59,6 +59,12 @@
               </li>
 
               <li>
+                <a href="exercise.php?dir=8-class_objects&file=static">
+                  Static
+                </a>
+              </li>
+
+              <li>
                 <a href="#">
                   Em breve um pouco mais de teoria sobre OO
                 </a>
