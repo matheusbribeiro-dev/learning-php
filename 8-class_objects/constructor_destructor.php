@@ -26,3 +26,5 @@
 
     $person = new Person('Geovanne', 42);
     echo $person->niceToMeet();
+
+    unset($person);/*Chama o destructor no objeto */
