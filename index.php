@@ -39,6 +39,12 @@
                   Desafio data
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=8-class_objects&file=constructor_destructor">
+                  Construtor e Destrutor
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 08-->
