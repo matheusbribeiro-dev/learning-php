@@ -45,6 +45,12 @@
                   Construtor e Destrutor
                 </a>
               </li>
+
+              <li>
+                <a href="#">
+                  Em breve um pouco mais de teoria sobre OO
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 08-->
