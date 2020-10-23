@@ -25,7 +25,7 @@
 			<a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="green">
 				Sem formatação
 			</a>
-			<a href="/index.php" class="red">Voltar</a>
+			<a href="./index.php" class="red">Voltar</a>
 		</nav>	
 		<!--//nav-->
 		<main class="main">

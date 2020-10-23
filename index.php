@@ -83,6 +83,12 @@
               </li>
 
               <li>
+                <a href="exercise.php?dir=8-class_objects&file=end">
+                  Modificador final
+                </a>
+              </li>
+
+              <li>
                 <a href="#">
                   Em breve um pouco mais de teoria sobre OO
                 </a>
@@ -411,7 +417,7 @@
                   Tipo inteiro
                 </a>
               </li>
-              
+
               <li>
                 <a href="exercise.php?dir=2-types&file=float">
                   Tipo float
@@ -472,7 +478,7 @@
                   Integração HTML
                 </a>
               </li>
-              
+
               <li>
                 <a href="exercise.php?dir=1-basic&file=css">
                   Integração CSS
@@ -498,6 +504,6 @@
       </div>
       <!--//div content-->
     </main>
-    <footer class="footer">COD3R & ALUNOS © <?= date('Y'); ?> </footer>
+    <footer class="footer">COD3R & ALUNOS © <?=date('Y');?> </footer>
   </body>
 </html>
