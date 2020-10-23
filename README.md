@@ -28,8 +28,8 @@
 - [x] Arrays;
 - [x] Estruturas de controle #02;
 - [x] Funções;
-- [ ] Orientação a Objetos;> in production
-- [ ] Includes;
+- [x] Orientação a Objetos;
+- [ ] Includes;> in production
 - [ ] Namespace;
 - [ ] Tratamento de erro;
 - [ ] Sessão & Cookie;
