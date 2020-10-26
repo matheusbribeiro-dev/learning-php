@@ -29,8 +29,8 @@
 - [x] Estruturas de controle #02;
 - [x] Funções;
 - [x] Orientação a Objetos;
-- [ ] Includes;> in production
-- [ ] Namespace;
+- [x] Includes;
+- [ ] Namespace;> in production
 - [ ] Tratamento de erro;
 - [ ] Sessão & Cookie;
 - [ ] API;
