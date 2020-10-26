@@ -45,6 +45,12 @@
                   Include vs required
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=9-includes&file=require_return">
+                  Require & return
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 09-->
