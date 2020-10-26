@@ -39,6 +39,12 @@
                   Include em funções
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=9-includes&file=include_vs_required">
+                  Include vs required
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 09-->
