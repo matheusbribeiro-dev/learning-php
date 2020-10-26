@@ -51,6 +51,12 @@
                   Require & return
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=9-includes&file=include_once">
+                  include Once
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 09-->
