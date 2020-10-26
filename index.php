@@ -24,6 +24,19 @@
       <div class="content">
         <!--nav modules-->
         <nav class="modules">
+          <!--Module 09-->
+          <div class="module dark-purple">
+            <h3>9. includes</h3>
+            <ul>
+              <li>
+                <a href="exercise.php?dir=9-includes&file=include">
+                  Include
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!--//Module 09-->
+
           <!--Module 08-->
           <div class="module dark-blue">
             <h3>8. Paradigma OO</h3>
