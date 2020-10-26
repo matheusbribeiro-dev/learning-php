@@ -1,5 +1,16 @@
 <!--nav modules-->
 <nav class="modules">
+  <!--Module 10-->
+  <div class="module dark-orange">
+    <h3>10. namespace</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=10-namespace&file=basic"> Básico </a>
+      </li>
+    </ul>
+  </div>
+  <!--//Module 10-->
+
   <!--Module 09-->
   <div class="module dark-purple">
     <h3>9. includes</h3>
