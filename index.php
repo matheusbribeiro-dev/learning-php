@@ -33,6 +33,12 @@
                   Include
                 </a>
               </li>
+
+              <li>
+                <a href="exercise.php?dir=9-includes&file=include_in_function">
+                  Include em funções
+                </a>
+              </li>
             </ul>
           </div>
           <!--//Module 09-->
