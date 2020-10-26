@@ -11,6 +11,10 @@
       <li>
         <a href="exercise.php?dir=10-namespace&file=sub_namespaces"> Sub namespace </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=10-namespace&file=use_as"> Use/As </a>
+      </li>
     </ul>
   </div>
   <!--//Module 10-->
