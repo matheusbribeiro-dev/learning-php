@@ -30,8 +30,8 @@
 - [x] Funções;
 - [x] Orientação a Objetos;
 - [x] Includes;
-- [ ] Namespace;> in production
-- [ ] Tratamento de erro;
+- [x] Namespace;
+- [ ] Tratamento de erro;> in production
 - [ ] Sessão & Cookie;
 - [ ] API;
 - [ ] Formulário;
