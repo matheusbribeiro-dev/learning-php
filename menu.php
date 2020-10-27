@@ -9,6 +9,12 @@
           Básico
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=12-session&file=session_manager">
+          Gerenciamento de sessão
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 12-->
