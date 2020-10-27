@@ -1,5 +1,18 @@
 <!--nav modules-->
 <nav class="modules">
+  <!--Module 11-->
+  <div class="module green">
+    <h3>11. Tratamento de erro</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=11-error_handling&file=try_catch">
+          Try/Catch
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!--//Module 11-->
+
   <!--Module 10-->
   <div class="module dark-orange">
     <h3>10. namespace</h3>
