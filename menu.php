@@ -15,6 +15,12 @@
           Erros personalizados
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=11-error_handling&file=challenge_intdiv_testing">
+          Desafio intdiv
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 11-->
