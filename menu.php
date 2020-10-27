@@ -9,6 +9,12 @@
           Try/Catch
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=11-error_handling&file=custom_error">
+          Erros personalizados
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 11-->
