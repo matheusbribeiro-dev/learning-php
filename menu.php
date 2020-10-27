@@ -21,6 +21,12 @@
           Desafio intdiv
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=11-error_handling&file=error_manager">
+          Error handler
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 11-->
