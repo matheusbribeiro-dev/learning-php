@@ -1,3 +1,10 @@
+<?php
+error_reporting(~E_ALL);
+session_start();
+if (!$_SESSION['user']) {
+    header('Location: login.php');
+}
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
@@ -22,21 +29,21 @@
 		</header>
 		<!--nav-->
 		<nav class="navigation">
-			<a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="green">
+			<a href=<?="/{$_GET['dir']}/{$_GET['file']}.php"?> class="green">
 				Sem formatação
 			</a>
 			<a href="./index.php" class="red">Voltar</a>
-		</nav>	
+		</nav>
 		<!--//nav-->
 		<main class="main">
 			<!--div content-->
 			<div class="content">
 				<?php
-					include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
-				?>
+include __DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php";
+?>
 			</div>
 			<!--//div content-->
 		</main>
-		<footer class="footer">COD3R & ALUNOS © <?= date('Y'); ?> </footer>
+		<footer class="footer">COD3R & ALUNOS © <?=date('Y');?> </footer>
 	</body>
 </html>

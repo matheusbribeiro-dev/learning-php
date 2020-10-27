@@ -7,10 +7,11 @@ body {
   height: 100vh;
   margin: 0;
   display: grid;
-  grid-template-rows: 120px 1fr 60px;
+  grid-template-rows: 120px 60px 1fr 60px;
   grid-template-columns: 1fr;
-  grid-template-areas: /*Require from 'grid-area' properties */
+  grid-template-areas:
     "header"
+    "navigation"
     "main"
     "footer";
 }
@@ -42,7 +43,7 @@ body {
 
 .main {
   grid-area: main;
-  height: calc(100vh - 180px);
+  height: calc(100vh - 240px);
   background-color: #f0f0f0;
   padding: 20px;
 }
@@ -188,4 +189,22 @@ p.division {
 
 hr {
   margin-top: 0;
+}
+
+.navigation {
+  grid-area: navigation;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #555;
+}
+
+.navigation > a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 300;
+  font-size: 1.3rem;
+  background-color: #2196f3;
+  padding: 5px 10px;
+  margin-right: 10px;
 }
