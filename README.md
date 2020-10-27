@@ -31,8 +31,8 @@
 - [x] Orientação a Objetos;
 - [x] Includes;
 - [x] Namespace;
-- [ ] Tratamento de erro;> in production
-- [ ] Sessão & Cookie;
+- [x] Tratamento de erro;
+- [ ] Sessão & Cookie;> in production
 - [ ] API;
 - [ ] Formulário;
 - [ ] Banco de dados;
