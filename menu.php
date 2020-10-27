@@ -1,5 +1,18 @@
 <!--nav modules-->
 <nav class="modules">
+  <!--Module 12-->
+  <div class="module red">
+    <h3>12. Sessão</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=12-session&file=basic">
+          Básico
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!--//Module 12-->
+
   <!--Module 11-->
   <div class="module green">
     <h3>11. Tratamento de erro</h3>
