@@ -20,7 +20,7 @@ if (!$_SESSION['email']) {
 ?>
 
 <p>
-    <a href="./12-session/basic_session_alter.php">
+    <a href="./basic_session_alter.php">
         Alterar sessão
     </a>
 </p>
