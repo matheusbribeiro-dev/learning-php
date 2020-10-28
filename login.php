@@ -16,6 +16,11 @@ if ($isSetEmail and $isSetPassword) {
             "email" => "outro@email.com.br",
             "password" => "654321",
         ],
+        [
+            "name" => "Matheus",
+            "email" => "matheus@email.com.br",
+            "password" => "taaa",
+        ],
     ];
 
     $email = $_POST['email'];
