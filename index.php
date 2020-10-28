@@ -1,10 +1,4 @@
-<?php
-error_reporting(~E_ALL);
-session_start();
-if (!$_SESSION['user']) {
-    header('Location: login.php');
-}
-?>
+<?php require_once 'session_permission.php'?>
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>

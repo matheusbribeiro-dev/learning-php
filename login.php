@@ -28,7 +28,12 @@ if ($isSetEmail and $isSetPassword) {
         if ($validEmail and $validPass) {
             $_SESSION['errors'] = null;
             $_SESSION['user'] = $user['name'];
+            /*Ciando cookie e definido tempo de expiração*/
+            $expire = time() + (60 * 60 * 24 * 30);
 
+            /*definindo um cookie*/
+            setcookie('user', $user['name'], $expire); /*1: nome do cookie;
+            2: valor a ser guardado; 3: tempo de expiração*/
             header('Location: index.php');
         }
     }
