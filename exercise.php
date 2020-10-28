@@ -29,18 +29,19 @@ if (!$_SESSION['user']) {
 		</header>
 		<!--nav-->
 		<nav class="navigation">
+			<span class="user">Usuário: <?=$_SESSION['user']?></span>
+
 			<a href=<?="/{$_GET['dir']}/{$_GET['file']}.php"?> class="green">
 				Sem formatação
 			</a>
-			<a href="./index.php" class="red">Voltar</a>
+			<a href="./index.php">Voltar</a>
+			<a href="logout.php" class="red">Logout</a>
 		</nav>
 		<!--//nav-->
 		<main class="main">
 			<!--div content-->
 			<div class="content">
-				<?php
-					include __DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php";
-				?>
+				<?php include __DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php";?>
 			</div>
 			<!--//div content-->
 		</main>

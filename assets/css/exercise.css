@@ -1,11 +1,3 @@
-.navigation > a.green {
-  background-color: #4caf50;
-}
-
-.navigation > a.red {
-  background-color: #f44336;
-}
-
 .content {
   font-size: 2rem;
 }

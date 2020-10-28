@@ -208,3 +208,19 @@ hr {
   padding: 5px 10px;
   margin-right: 10px;
 }
+
+span.user {
+  flex-grow: 1;
+  justify-self: flex-start;
+  color: #eee;
+  padding-left: 10px;
+  font-size: 1.2rem;
+}
+
+.navigation > a.green {
+  background-color: #4caf50;
+}
+
+.navigation > a.red {
+  background-color: #f44336;
+}

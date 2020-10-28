@@ -29,7 +29,8 @@ if (!$_SESSION['user']) {
 
     <!--nav-->
 		<nav class="navigation">
-
+      <span class="user">Usuário: <?=$_SESSION['user']?></span>
+      <a href="logout.php" class="red">Logout</a>
 		</nav>
     <!--//nav-->
 
