@@ -32,8 +32,8 @@
 - [x] Includes;
 - [x] Namespace;
 - [x] Tratamento de erro;
-- [ ] Sessão & Cookie;> in production
-- [ ] API;
+- [x] Sessão & Cookie;
+- [ ] API;> in production
 - [ ] Formulário;
 - [ ] Banco de dados;
 
