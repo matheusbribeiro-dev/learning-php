@@ -1,5 +1,18 @@
 <!--nav modules-->
 <nav class="modules">
+  <!--Module 13-->
+  <div class="module blue">
+    <h3>13. API</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=13-api&file=date_01">
+          Data #01
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!--//Module 13-->
+
   <!--Module 12-->
   <div class="module red">
     <h3>12. Sessão</h3>
