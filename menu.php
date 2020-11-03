@@ -15,6 +15,12 @@
           Data #02
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=13-api&file=write_file">
+          Escrever arquivo
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 13-->
