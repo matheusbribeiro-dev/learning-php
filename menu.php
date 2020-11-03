@@ -21,6 +21,12 @@
           Escrever arquivo
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=13-api&file=read_file">
+          Ler arquivo
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 13-->
