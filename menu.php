@@ -33,6 +33,12 @@
           Uploads de arquivos
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=13-api&file=download">
+          Download
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 13-->
