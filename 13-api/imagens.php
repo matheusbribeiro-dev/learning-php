@@ -1,4 +1,4 @@
-<div class="title">Download</div>
+<div class="title">Imagens</div>
 
 <?php
 session_start();
@@ -13,7 +13,6 @@ $tmp = $_FILES['file']['tmp_name'];
 if (move_uploaded_file($tmp, $filePath)) {
 	echo "<br> Arquivo enviado com sucesso.";
 	$files[] = $fileName;
-	$files[] = $fileName;
 	$_SESSION['files'] = $files;
 } else {
 	echo "<br>Erro no upload de arquivo";
@@ -27,11 +26,11 @@ if (move_uploaded_file($tmp, $filePath)) {
 
 <ul>
 	<?php foreach ($files as $file): ?>
-		<li>
-			<a href="./files/<?= $file ?>">
-				<?= $file ?>
-			</a>
-		</li>
+		<?php if(stripos($file, '.png') > 0): ?>
+			<li>
+				<img src="./files/<?= $file ?>" height="100">
+			</li>
+		<?php endif ?>
 	<?php endforeach ?>
 </ul>
 

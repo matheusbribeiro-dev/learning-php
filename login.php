@@ -1,5 +1,6 @@
 <?php
 session_start();
+error_reporting(~E_ALL);
 
 $isSetEmail = isset($_POST['email']);
 $isSetPassword = isset($_POST['password']);

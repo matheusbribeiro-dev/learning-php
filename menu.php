@@ -39,6 +39,12 @@
           Download
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=13-api&file=imagens">
+          Imagens
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 13-->
