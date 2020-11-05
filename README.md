@@ -33,8 +33,8 @@
 - [x] Namespace;
 - [x] Tratamento de erro;
 - [x] Sessão & Cookie;
-- [ ] API;> in production
-- [ ] Formulário;
+- [x] API;
+- [ ] Formulário;> in production
 - [ ] Banco de dados;
 
 > Atualizações todos os dias
