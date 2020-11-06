@@ -34,7 +34,7 @@
 - [x] Tratamento de erro;
 - [x] Sessão & Cookie;
 - [x] API;
-- [ ] Formulário;> in production
-- [ ] Banco de dados;
+- [x] Formulário;
+- [ ] Banco de dados;> in production
 
 > Atualizações todos os dias
