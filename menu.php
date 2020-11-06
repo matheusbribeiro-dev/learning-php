@@ -1,5 +1,30 @@
 <!--nav modules-->
 <nav class="modules">
+  <!--Module 15-->
+  <div class="module orange">
+    <h3>15. Banco de dados</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=15-db&file=create_db">
+          Criar banco
+        </a>
+      </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=create_table">
+          Criar tabela
+        </a>
+      </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=insert1">
+          Inserir registro #01
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!--//Module 15--> 
+
   <!--Module 14-->
   <div class="module purple">
     <h3>14. Formulário</h3>
