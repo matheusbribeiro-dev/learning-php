@@ -1,4 +1,4 @@
-<div class="title">Excluir dados #01</div>
+<div class="title">Excluir registros #01</div>
 
 <?php
 require_once "connection.php";

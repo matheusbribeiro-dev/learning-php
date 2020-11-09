@@ -21,6 +21,12 @@
           Inserir registro #01
         </a>
       </li>
+      
+      <li>
+        <a href="exercise.php?dir=15-db&file=insert2">
+          Inserir registros #02
+        </a>
+      </li>
 
       <li>
         <a href="exercise.php?dir=15-db&file=consult">
@@ -30,13 +36,13 @@
 
       <li>
         <a href="exercise.php?dir=15-db&file=delete1">
-          Excluir dados #01
+          Excluir registros #01
         </a>
       </li>
 
       <li>
         <a href="exercise.php?dir=15-db&file=delete2">
-          Excluir dados #02
+          Excluir registros #02
         </a>
       </li>
     </ul>
