@@ -27,6 +27,12 @@
           Consultar dados
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=delete1">
+          Excluir dados #01
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 15--> 
