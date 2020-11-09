@@ -33,6 +33,12 @@
           Excluir dados #01
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=delete2">
+          Excluir dados #02
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 15--> 
