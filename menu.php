@@ -45,6 +45,12 @@
           Excluir registros #02
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=alter">
+          Alterar registros
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 15--> 
