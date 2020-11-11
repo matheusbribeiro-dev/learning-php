@@ -12,7 +12,3 @@ function newConnection($db = 'curso_php') {
         die('Error: '. $e->getMessage());
     }
 }
-
-newConnection();
-
-echo "Fim";
