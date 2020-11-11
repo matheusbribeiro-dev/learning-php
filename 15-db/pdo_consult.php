@@ -34,3 +34,22 @@ if($stmt->execute()) {
     echo "Error code: ". $stmt->errorCode();
     print_r($stmt->errorInfo());
 }
+
+echo "<hr>";
+//obtendo dado por id
+$sql = "SELECT * FROM cadastro WHERE id = ?";//ou :id
+$stmt = $connection->prepare($sql);
+
+/*passando 1 como parametro pra execução da query.
+O que acontece na query é 'id = 1'*/
+
+//if($stmt->execute([':id' => 1])){ OU
+if($stmt->execute([1])){
+    $returnDb = $stmt->fetch();//usando fetch por ser apenas um dado
+    print_r($returnDb);
+} else {
+    echo "Error code: ". $stmt->errorCode();
+    print_r($stmt->errorInfo());
+}
+
+$connection = null;

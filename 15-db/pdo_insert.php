@@ -27,3 +27,5 @@ if($connection->exec($sql)) {
 
     print_r($connection->errorInfo());
 }
+
+$connection = null;
