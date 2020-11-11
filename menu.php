@@ -51,6 +51,12 @@
           Alterar registros
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=pdo_insert">
+          PDO: Inserir
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 15--> 
