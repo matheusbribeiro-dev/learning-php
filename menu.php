@@ -57,6 +57,12 @@
           PDO: Inserir
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=pdo_consult">
+          PDO: Consultar
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 15--> 
