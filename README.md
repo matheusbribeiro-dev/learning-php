@@ -35,6 +35,8 @@
 - [x] Sessão & Cookie;
 - [x] API;
 - [x] Formulário;
-- [ ] Banco de dados;> in production
+- [x] Banco de dados;
 
-> Atualizações todos os dias
+> O estudo nunca para!
+>fique de olho no meu perfil, em breve mais projetos com PHP <3.
+

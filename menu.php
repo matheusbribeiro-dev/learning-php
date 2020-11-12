@@ -63,6 +63,18 @@
           PDO: Consultar
         </a>
       </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=pdo_delete">
+          PDO: Excluir
+        </a>
+      </li>
+
+      <li>
+        <a href="exercise.php?dir=15-db&file=pdo_alter">
+          PDO: Alterar
+        </a>
+      </li>
     </ul>
   </div>
   <!--//Module 15--> 
