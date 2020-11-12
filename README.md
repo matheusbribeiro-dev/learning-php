@@ -38,5 +38,5 @@
 - [x] Banco de dados;
 
 > O estudo nunca para!
->fique de olho no meu perfil, em breve mais projetos com PHP <3.
+>Fique de olho no meu perfil, em breve mais projetos com PHP <3.
 
